@@ -85,7 +85,7 @@ const sections = [
         <p>Questions about this policy? We're here to help.</p>
         <div className="contact-box">
           <span className="contact-label">Nexias Support</span>
-          <a href="mailto:[Your Email]" className="contact-email">[Your Email]</a>
+          <a href="mailto:[Your Email]" className="contact-email">[nexiasdev@gmail.com]</a>
         </div>
       </>
     ),
