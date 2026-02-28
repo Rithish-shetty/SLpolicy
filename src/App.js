@@ -430,7 +430,7 @@ const App = () => {
       <div className="pp-root">
         <div className={`pp-inner${visible ? ' visible' : ''}`}>
           <header className="pp-header">
-            <div className="pp-eyebrow">SmartLearn AI · Nexias</div>
+            <div className="pp-eyebrow">SmartLearn AI · Rithish</div>
             <h1 className="pp-title">Privacy<br/><span>Policy</span></h1>
             <div className="pp-meta">
               <span>Last updated: February 28, 2026</span>
@@ -463,7 +463,7 @@ const App = () => {
 
           <footer className="pp-footer">
             <span className="pp-footer-brand">SmartLearn AI</span>
-            <span className="pp-footer-text">© 2026 Nexias. All rights reserved.</span>
+            <span className="pp-footer-text">© 2026 Rithish. All rights reserved.</span>
           </footer>
         </div>
       </div>
